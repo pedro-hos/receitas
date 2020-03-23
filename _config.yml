@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Receitas
-email: your-email@example.com
+email: pedro-hos@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Isso mesmo, antes de ser dev, meu sonho era ser chef!
 baseurl: "/receitas" # the subpath of your site, e.g. /blog
 url: "pedro-hos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: pedro_hosilva
+github_username:  pedro-hos
 
 # Build settings
 theme: minima
