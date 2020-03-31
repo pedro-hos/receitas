@@ -31,4 +31,4 @@ MODO DE PREPARO
 
 6. Retire o bolo do forno e deixe esfriar por 30 minutos antes de desenformar, enquanto isso prepare a calda.
 
-Fonte: (BOLO DE LARANJA Panelinha)[https://www.panelinha.com.br/receita/Bolo-de-laranja]
+Fonte: [BOLO DE LARANJA Panelinha](https://www.panelinha.com.br/receita/Bolo-de-laranja)
