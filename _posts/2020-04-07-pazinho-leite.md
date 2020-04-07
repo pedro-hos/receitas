@@ -9,8 +9,8 @@ INGREDIENTES
 ===
 
 * Tangzhong 
-* * 50g de farinha 
-* * 250ml de leite
+    * 50g de farinha 
+    * 250ml de leite
 
 * 450g de Farinha branca
 * 10g de sal
