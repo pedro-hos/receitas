@@ -30,3 +30,5 @@ MODO DE PREPARO
 5. Deixar descansando na geladeira por 10h/12h;
 6. Após o descanso, modelar a massa e deixar até dobrar de tamanho;
 7. Assar até dourar, para bisnagas uns 20 min deve ser sufiente.
+
+Fonte: [Pão da Casa - Pão fofinho](https://www.youtube.com/watch?v=jrrF5yUUbyk&t=938s)
