@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "moonshine de melancia"
+title:  "MOONSHINE DE MELANCIA"
 categories: bebidas
 tags: [bebidas, receitas, moonshine]
 ---
@@ -34,8 +34,8 @@ MODO DE PREPARO
 1. 10 dias fermentando, até zerar brix;
 2. Colocar para destilar (não jogar a borra do final)
 
-**Cabeça** Descartar 4% do volume total
-**Coração** Até ~40 ABV (Ir testado o saber pra saber a cauda)
+* **Cabeça** Descartar 4% do volume total
+* **Coração** Até ~40 ABV (Ir testado o saber pra saber a cauda)
 
 Fontes
 
